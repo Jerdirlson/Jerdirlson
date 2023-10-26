@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente trabajo en varios proyectos con el framework AngularJS. La mayoria con backend en NextJs y con MYSQL.<br><br>Estoy aprendiendo React Native para desarrollo de aplicaciones moviles.<br><br>Estoy muy interesado en seguir aprendiendo y trabajando en el framework VueJS.
+Actualmente trabajo en varios proyectos con el framework AngularJS, Vue, React. La mayoria con backend en NextJs y express con MYSQL.<br><br>Estoy aprendiendo React Native para desarrollo de aplicaciones moviles.<br><br>Estoy muy interesado en seguir aprendiendo, casi todos mis proyectos personales son hechos en java, ya que fue el lenguaje en el que aprendi a programar.
 
 
 ## 🌐 Socials:
